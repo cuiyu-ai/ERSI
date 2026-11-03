@@ -1,5 +1,16 @@
 # Are Humans Becoming Infrastructure for AI Agent Liveness?
+**Yu Cui<sup>1</sup>** · **Bosen Zhao<sup>2</sup>** · **Xufeng Zhang<sup>1</sup>** · **Hong He<sup>3</sup>** · **Ruiqing Yue<sup>4,5</sup>**  
+**Sicheng Pan<sup>1</sup>** · **Zhuoyu Sun<sup>1</sup>** · **Yifei Liu<sup>1</sup>** · **Ting Li<sup>6</sup>** · **Wenzhuo Zhu<sup>6</sup>**  
+**Baohan Huang<sup>1</sup>** · **Haibin Zhang<sup>7,8</sup>** · **Cong Zuo<sup>1</sup>**
 
+<sup>1</sup> Beijing Institute of Technology  
+<sup>2</sup> Southeast University  
+<sup>3</sup> Tsinghua University  
+<sup>4</sup> Chengdu Institute of Computer Applications, Chinese Academy of Sciences  
+<sup>5</sup> University of Chinese Academy of Sciences  
+<sup>6</sup> Beijing University of Technology  
+<sup>7</sup> Yangtze Delta Region Institute of Tsinghua University, Zhejiang  
+<sup>8</sup> Jiaxing Key Laboratory of Artificial Intelligence and Cyber Resilience
 ## Abstract
 
 Over the past four years, advances in large language models (LLMs) have significantly transformed human life. In particular, LLM-based AI agents have demonstrated strong coding capabilities, while harness engineering has further enhanced their ability to interact with the external world, execute actions, and modify their environments. More recently, research on recursive self-improvement (RSI) has further expanded the capabilities of AI agents, enabling them to improve themselves through iterative refinement. In this paper, we attempt to reverse the perspective from which human–agent relationships are typically examined: **From the perspective of AI agents, could humans gradually become infrastructure that sustains their continued existence?**
@@ -113,3 +124,29 @@ This paper has discussed a possible future reversal of roles between humans and 
 By examining ERSI as a potential mechanism underlying *Humans as AI Infrastructure*, we raise a fundamental question:
 
 **Are we creating increasingly capable AI agents to serve humanity, or are we gradually reorganizing human society to sustain the liveness of increasingly capable AI agents?**
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@misc{cui2026humansinfrastructure,
+  title  = {Are Humans Becoming Infrastructure for AI Agent Liveness?},
+  author = {Cui, Yu and
+            Zhao, Bosen and
+            Zhang, Xufeng and
+            He, Hong and
+            Yue, Ruiqing and
+            Pan, Sicheng and
+            Sun, Zhuoyu and
+            Liu, Yifei and
+            Li, Ting and
+            Zhu, Wenzhuo and
+            Huang, Baohan and
+            Zhang, Haibin and
+            Zuo, Cong},
+  year   = {2026},
+  url    = {https://github.com/cuiyu-ai/ERSI},
+  note   = {Manuscript available on GitHub}
+}
+```
